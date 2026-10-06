@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    @apply bg-porcelain font-sans text-charcoal antialiased;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+  }
+  h1, h2, h3, .font-display { font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif; font-weight: 600; line-height: 1.15; letter-spacing: -0.01em; }
+  h1, h2, h3 { @apply text-mauve; }
+  :focus-visible { outline: 2px solid #8F4A55; outline-offset: 3px; border-radius: 4px; }
+  ::selection { background: #EFD5D1; color: #4A2C34; }
+  img { max-width: 100%; }
+}
+
+@layer components {
+  .shell { @apply mx-auto w-full max-w-shell px-5 sm:px-8; }
+
+  /* Buttons */
+  .btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-7 py-3 text-[15px] font-semibold tracking-[0.01em] transition duration-300 disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply btn bg-rosewood text-white hover:bg-mauve active:scale-[0.98]; }
+  .btn-light { @apply btn bg-white/90 text-mauve backdrop-blur hover:bg-white; }
+  .btn-outline { @apply btn border border-mauve/25 text-mauve hover:border-rosewood hover:text-rosewood; }
+  .btn-ghost-light { @apply btn border border-white/70 text-white hover:bg-white hover:text-mauve; }
+  .btn-sm { @apply min-h-[40px] px-5 py-2 text-sm; }
+
+  .link-underline { @apply relative text-rosewood after:absolute after:-bottom-0.5 after:left-0 after:h-px after:w-full after:origin-left after:scale-x-100 after:bg-current after:transition-transform hover:after:scale-x-0; }
+
+  /* Form fields used on the storefront */
+  .field-label { @apply mb-1.5 block text-sm font-medium text-mauve; }
+  .field { @apply w-full rounded-xl border border-line bg-white px-4 py-3 text-base font-normal text-charcoal placeholder:text-stone/60 transition focus:border-rose focus:outline-none focus:ring-4 focus:ring-blush/60; }
+  .field-error { @apply mt-1 text-sm font-medium text-rose-700; }
+
+  .section { @apply py-16 sm:py-24; }
+  .section-title { @apply font-display font-semibold; font-size: clamp(2rem, 1.4rem + 2.2vw, 3rem); }
+  .section-lede { @apply mt-3 max-w-xl text-base font-normal leading-[1.7] text-stone sm:text-[17px]; }
+  .prose-copy { max-width: 70ch; }
+
+  .card { @apply rounded-2xl border border-line bg-white; }
+
+  .arch { border-radius: 999px 999px 20px 20px; }
+
+  .skeleton { @apply animate-pulse rounded-xl bg-petal; }
+}
+
+/* Respect reduced motion everywhere. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+/* Ant Design fine-tuning to match the storefront */
+.ant-drawer .ant-drawer-title { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; font-size: 24px; color: #4A2C34; }
+.ant-message-notice-content { border-radius: 999px !important; padding: 10px 20px !important; }

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="broses" x1="0" x2="1"><stop offset="0" stop-color="#F8E4E0"/><stop offset=".35" stop-color="#EDC9C4"/><stop offset=".7" stop-color="#EDC9C4"/><stop offset="1" stop-color="#F8E4E0"/></linearGradient>
+  <linearGradient id="croses" x1="0" x2="1"><stop offset="0" stop-color="#b7797f"/><stop offset=".4" stop-color="#C98B91"/><stop offset="1" stop-color="#b17379"/></linearGradient>
+  <linearGradient id="hroses" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sroses"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bgroses" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7E9E6"/><stop offset="1" stop-color="#eddfdc"/></linearGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bgroses)"/>
+<path d="M150 1000 V430 Q150 210 400 210 Q650 210 650 430 V1000 Z" fill="#fff" opacity=".45"/>
+<ellipse cx="400" cy="812" rx="250" ry="38" fill="#e5d7d4" opacity=".5"/>
+<ellipse cx="400" cy="800" rx="258.28125" ry="41.324999999999996" fill="url(#sroses)"/>
+  <rect x="227.8125" y="626.0" width="344.375" height="174.0" rx="31.9" fill="url(#broses)"/>
+  <rect x="245.2125" y="643.4" width="23.2" height="136.3" rx="7" fill="url(#hroses)" opacity=".8"/>
+  <rect x="219.1125" y="541.9" width="361.775" height="89.89999999999999" rx="23.2" fill="url(#croses)"/>
+  <rect x="233.6125" y="553.5" width="332.775" height="11.6" rx="4" fill="#fff" opacity=".25"/>
+  <rect x="313.90625" y="655.0" width="172.1875" height="107.88" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(386,674.4184) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="400" y="739.1464" text-anchor="middle" font-family="Georgia, serif" font-size="19" letter-spacing="2" fill="#8F4A55">BODY SCRUB</text>
+</svg>

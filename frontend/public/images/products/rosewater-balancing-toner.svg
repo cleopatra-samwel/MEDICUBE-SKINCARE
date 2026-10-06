@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="brosewa" x1="0" x2="1"><stop offset="0" stop-color="#FAE7E6"/><stop offset=".35" stop-color="#F1CFD0"/><stop offset=".7" stop-color="#F1CFD0"/><stop offset="1" stop-color="#FAE7E6"/></linearGradient>
+  <linearGradient id="crosewa" x1="0" x2="1"><stop offset="0" stop-color="#d7b7b3"/><stop offset=".4" stop-color="#E9C9C5"/><stop offset="1" stop-color="#d1b1ad"/></linearGradient>
+  <linearGradient id="hrosewa" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="srosewa"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bgrosewa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7E9E6"/><stop offset="1" stop-color="#eddfdc"/></linearGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bgrosewa)"/>
+<path d="M150 1000 V430 Q150 210 400 210 Q650 210 650 430 V1000 Z" fill="#fff" opacity=".45"/>
+<ellipse cx="400" cy="812" rx="250" ry="38" fill="#e5d7d4" opacity=".5"/>
+<ellipse cx="400" cy="800" rx="134.85" ry="21.575999999999997" fill="url(#srosewa)"/>
+  <rect x="310.1" y="437.5" width="179.79999999999998" height="362.5" rx="26.099999999999998" fill="url(#brosewa)"/>
+  <rect x="326.05" y="457.8" width="20.3" height="313.2" rx="7" fill="url(#hrosewa)" opacity=".8"/>
+  <rect x="347.8" y="402.7" width="104.39999999999999" height="40.6" rx="7.25" fill="url(#crosewa)"/>
+  <path d="M356.5 402.7 V324.4 Q356.5 298.3 382.6 298.3 H417.4 Q443.5 298.3 443.5 324.4 V402.7 Z" fill="url(#crosewa)"/>
+  <rect x="335.272" y="546.25" width="129.456" height="145.0" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(386,572.35) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="400" y="659.35" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#8F4A55">TONER</text>
+</svg>

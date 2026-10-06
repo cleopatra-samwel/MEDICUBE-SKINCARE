@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" width="640" height="900"><defs>
+  <linearGradient id="bc6a" x1="0" x2="1"><stop offset="0" stop-color="#FBEAE6"/><stop offset=".35" stop-color="#F0D4CF"/><stop offset=".7" stop-color="#F0D4CF"/><stop offset="1" stop-color="#FBEAE6"/></linearGradient>
+  <linearGradient id="cc6a" x1="0" x2="1"><stop offset="0" stop-color="#924c56"/><stop offset=".4" stop-color="#A45E68"/><stop offset="1" stop-color="#8c4650"/></linearGradient>
+  <linearGradient id="hc6a" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sc6a"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bc6b" x1="0" x2="1"><stop offset="0" stop-color="#F8E4E0"/><stop offset=".35" stop-color="#EDC9C4"/><stop offset=".7" stop-color="#EDC9C4"/><stop offset="1" stop-color="#F8E4E0"/></linearGradient>
+  <linearGradient id="cc6b" x1="0" x2="1"><stop offset="0" stop-color="#b7797f"/><stop offset=".4" stop-color="#C98B91"/><stop offset="1" stop-color="#b17379"/></linearGradient>
+  <linearGradient id="hc6b" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sc6b"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="900" fill="#F3DEDB"/><circle cx="420" cy="300" r="190" fill="#fff" opacity=".5"/>
+<ellipse cx="380" cy="800" rx="260" ry="34" fill="#e3cecb" opacity=".6"/><ellipse cx="470" cy="760" rx="127.18124999999999" ry="20.348999999999997" fill="url(#sc6b)"/>
+  <rect x="385.2125" y="652.9" width="169.575" height="107.1" rx="19.634999999999998" fill="url(#bc6b)"/>
+  <rect x="395.92249999999996" y="663.61" width="14.28" height="83.895" rx="7" fill="url(#hc6b)" opacity=".8"/>
+  <rect x="379.85749999999996" y="601.135" width="180.285" height="55.335" rx="14.28" fill="url(#cc6b)"/>
+  <rect x="388.78249999999997" y="608.275" width="162.435" height="7.14" rx="4" fill="#fff" opacity=".25"/>
+  <rect x="427.60625" y="670.75" width="84.7875" height="66.402" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(456,682.70236) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="470" y="722.54356" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8F4A55"></text><ellipse cx="320" cy="790" rx="84.0" ry="13.44" fill="url(#sc6a)"/>
+  <rect x="264.0" y="490.0" width="112.0" height="300.0" rx="26.0" fill="url(#bc6a)"/>
+  <rect x="274.0" y="506.0" width="13.0" height="260.0" rx="6" fill="url(#hc6a)" opacity=".8"/>
+  <rect x="290.0" y="464.0" width="60.0" height="30.0" rx="5.0" fill="url(#cc6a)"/>
+  <rect x="311.0" y="426.0" width="18.0" height="40.0" fill="url(#cc6a)"/>
+  <path d="M294.0 426.0 H380.0 Q392.0 426.0 392.0 436.0 V442.0 H364.0 V436.0 H294.0 Z" fill="url(#cc6a)"/>
+  <rect x="292.0" y="410.0" width="56.0" height="18.0" rx="8.0" fill="url(#cc6a)"/>
+  <rect x="278.56" y="592.0" width="82.88" height="102.00000000000001" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(306,610.36) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="320" y="671.5600000000001" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8F4A55">BODY LOTION</text></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="bdaily" x1="0" x2="1"><stop offset="0" stop-color="#FFF4F1"/><stop offset=".35" stop-color="#F5E1DC"/><stop offset=".7" stop-color="#F5E1DC"/><stop offset="1" stop-color="#FFF4F1"/></linearGradient>
+  <linearGradient id="cdaily" x1="0" x2="1"><stop offset="0" stop-color="#b7797f"/><stop offset=".4" stop-color="#C98B91"/><stop offset="1" stop-color="#b17379"/></linearGradient>
+  <linearGradient id="hdaily" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sdaily"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bgdaily" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7E9E6"/><stop offset="1" stop-color="#eddfdc"/></linearGradient>
+</defs>
+<rect width="800" height="1000" fill="url(#bgdaily)"/>
+<path d="M150 1000 V430 Q150 210 400 210 Q650 210 650 430 V1000 Z" fill="#fff" opacity=".45"/>
+<ellipse cx="400" cy="812" rx="250" ry="38" fill="#e5d7d4" opacity=".5"/>
+<ellipse cx="400" cy="800" rx="105.30000000000001" ry="16.848" fill="url(#sdaily)"/>
+  <rect x="346.0" y="732.5" width="108.0" height="67.5" rx="13.5" fill="url(#cdaily)"/>
+  <path d="M348.7 732.5 L329.8 397.7 V357.2 H470.20000000000005 V397.7 L451.3 732.5 Z" fill="url(#bdaily)"/>
+  <rect x="324.40000000000003" y="351.8" width="151.20000000000002" height="21.6" rx="3" fill="#e7d3ce"/>
+  <path d="M348.7 397.7 L364.9 719.0" stroke="#fff" stroke-opacity=".5" stroke-width="13.5" stroke-linecap="round"/>
+  <rect x="353.668" y="438.2" width="92.664" height="136.07999999999998" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(386,462.6944) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="400" y="544.3424" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8F4A55">SPF 50</text>
+</svg>

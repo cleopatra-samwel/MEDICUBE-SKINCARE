@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" width="640" height="900"><defs>
+  <linearGradient id="bc2a" x1="0" x2="1"><stop offset="0" stop-color="#FBE3DE"/><stop offset=".35" stop-color="#F2C9C3"/><stop offset=".7" stop-color="#F2C9C3"/><stop offset="1" stop-color="#FBE3DE"/></linearGradient>
+  <linearGradient id="cc2a" x1="0" x2="1"><stop offset="0" stop-color="#b7797f"/><stop offset=".4" stop-color="#C98B91"/><stop offset="1" stop-color="#b17379"/></linearGradient>
+  <linearGradient id="hc2a" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sc2a"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bc2b" x1="0" x2="1"><stop offset="0" stop-color="#FDF0F1"/><stop offset=".35" stop-color="#F4DADD"/><stop offset=".7" stop-color="#F4DADD"/><stop offset="1" stop-color="#FDF0F1"/></linearGradient>
+  <linearGradient id="cc2b" x1="0" x2="1"><stop offset="0" stop-color="#cb9ea2"/><stop offset=".4" stop-color="#DDB0B4"/><stop offset="1" stop-color="#c5989c"/></linearGradient>
+  <linearGradient id="hc2b" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sc2b"><stop offset="0" stop-color="#8F4A55" stop-opacity=".22"/><stop offset="1" stop-color="#8F4A55" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="900" fill="#F3DEDB"/><circle cx="420" cy="300" r="190" fill="#fff" opacity=".5"/>
+<ellipse cx="380" cy="800" rx="260" ry="34" fill="#e3cecb" opacity=".6"/><ellipse cx="470" cy="760" rx="95.625" ry="15.299999999999999" fill="url(#sc2b)"/>
+  <path d="M406.25 579.375 Q406.25 536.875 438.125 536.875 H501.875 Q533.75 536.875 533.75 579.375 V745.125 Q533.75 760 518.875 760 H421.125 Q406.25 760 406.25 745.125 Z" fill="url(#bc2b)"/>
+  <rect x="416.875" y="547.5" width="14.875" height="191.25" rx="7" fill="url(#hc2b)" opacity=".8"/>
+  <rect x="433.875" y="496.5" width="72.25" height="42.5" rx="6.375" fill="url(#cc2b)"/>
+  <path d="M442.375 496.5 V435.9375 Q470 393.4375 497.625 435.9375 V496.5 Z" fill="url(#cc2b)"/>
+  <rect x="424.1" y="602.75" width="91.8" height="93.71249999999999" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(456,619.61825) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="470" y="675.84575" text-anchor="middle" font-family="Georgia, serif" font-size="11" letter-spacing="2" fill="#8F4A55"></text><ellipse cx="320" cy="790" rx="112.5" ry="18.0" fill="url(#sc2a)"/>
+  <path d="M245.0 577.5 Q245.0 527.5 282.5 527.5 H357.5 Q395.0 527.5 395.0 577.5 V772.5 Q395.0 790 377.5 790 H262.5 Q245.0 790 245.0 772.5 Z" fill="url(#bc2a)"/>
+  <rect x="257.5" y="540.0" width="17.5" height="225.0" rx="7" fill="url(#hc2a)" opacity=".8"/>
+  <rect x="277.5" y="480.0" width="85.0" height="50.0" rx="7.5" fill="url(#cc2a)"/>
+  <path d="M287.5 480.0 V408.75 Q320 358.75 352.5 408.75 V480.0 Z" fill="url(#cc2a)"/>
+  <rect x="266.0" y="605.0" width="108.0" height="110.25" rx="6" fill="#fff" opacity=".82"/>
+  <g transform="translate(306,624.845) scale(0.58)"><path d="M8 44V22C8 12.06 15.16 4 24 4s16 8.06 16 18v22" stroke="#8F4A55" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 15c0 0-7.5 8.3-7.5 13.4a7.5 7.5 0 0 0 15 0C31.5 23.3 24 15 24 15Z" fill="#8F4A55"/></g>
+  <text x="320" y="690.995" text-anchor="middle" font-family="Georgia, serif" font-size="12" letter-spacing="2" fill="#8F4A55">SERUM</text></svg>
